@@ -1,0 +1,10 @@
+NORAD ID: 30000 
+Int'l Code: 1968-081J 
+Perigee: 35,121.9 km 
+Apogee: 36,108.8 km 
+Inclination: 3.2 &deg 
+Period: 1,427.0 minutes 
+Semi major axis: 41986 km 
+RCS: 0.003 m2 (small) 
+Launch date: September 26, 1968
+Source: United States (US)
